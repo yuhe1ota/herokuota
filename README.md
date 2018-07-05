@@ -1,0 +1,2 @@
+# herokuota
+linebotとか
